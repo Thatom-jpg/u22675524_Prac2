@@ -148,6 +148,12 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="HTML\Images\Anthony-Mackie-Captain-America-last.jpg" />
+    <Content Include="HTML\Images\antman-and-the-wasp-marvel-4 last.jpg" />
+    <Content Include="HTML\Images\black-widow-1 last.jpg" />
+    <Content Include="HTML\Images\captain america 2.JPG" />
+    <Content Include="HTML\Images\peter-parker-Cropped last.jpg" />
+    <Content Include="HTML\Images\The-Incredible-Hulk last.jpg" />
     <Content Include="HTML\Person1.html" />
     <Content Include="HTML\Person2.html" />
     <Content Include="HTML\Person3.html" />
